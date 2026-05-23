@@ -1,0 +1,8 @@
+{
+  "serverAddress": "Mine6776.aternos.me",
+  "serverPort": 42473,
+  "username": "Bot",
+  "keepAliveInterval": 30,
+  "motionInterval": 300,
+  "motionEnabled": true
+}
